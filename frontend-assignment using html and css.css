@@ -196,6 +196,7 @@
     width: 24px;
     height: 24px;
     flex-shrink: 0;
+    accent-color: #25DAC5;
 }
 
 label {
@@ -226,7 +227,7 @@ label {
     margin-bottom: 20px;
 }
 
-span {
+.or-text {
     opacity: 0.9;
     color: #15143966;
     text-align: center;
@@ -280,4 +281,10 @@ span {
     font-weight: 500;
     line-height: 28px;
     /* 155.556% */
+}
+
+.h_line {
+    border: 1px solid #EBEAED;
+    width: 120px;
+    margin: auto;
 }
